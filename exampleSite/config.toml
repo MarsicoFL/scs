@@ -57,7 +57,7 @@ weight = 8
 contentDir = "content/french"
 copyright = "Copyright & copy; 2020 Designed by Franco Marsico"
 home = "Accueil"
-languageCode = "Es-Es"
+languageCode = "Es-Ar"
 languageName = "Es"
 weight = 2
 [[Languages.fr.menu.main]]
