@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/Genesis_Salgado.jpg
-  bg_image: images/backgrounds/Genesis_Salgado.jpg
+  bg_image_webp: images/backgrounds/Genesis_Salgado2.jpg
+  bg_image: images/backgrounds/Genesis_Salgado2.jpg
   icon: ''
   title: Encuentros
   content: A blog dedicated to complexity in social systems.
