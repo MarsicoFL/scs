@@ -33,11 +33,11 @@ name = "team"
 pre = "#"
 url = "team"
 weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#pre = "#"
+#url = "pricing"
+#weight = 5
 [[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
@@ -48,11 +48,11 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "themefisher"
+#pre = ""
+#url = "https://themefisher.com/"
+#weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright & copy; 2020 Designed by Franco Marsico"
@@ -80,11 +80,11 @@ name = "équipe"
 pre = "#"
 url = "team"
 weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
-pre = "#"
-url = "pricing"
-weight = 5
+#[[Languages.fr.menu.main]]
+#name = "tarification"
+#pre = "#"
+#url = "pricing"
+#weight = 5
 [[Languages.fr.menu.main]]
 name = "blog"
 pre = "#"
@@ -95,11 +95,11 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.fr.menu.main]]
+#name = "themefisher"
+#pre = ""
+#url = "https://themefisher.com/"
+#weight = 8
 [params]
 author = "Franco Marsico"
 description = "Hugo template"
