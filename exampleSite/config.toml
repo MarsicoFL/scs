@@ -55,10 +55,10 @@ url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright & copy; 2020 Designed by Franco Marsico"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "Es-Es"
+languageName = "Es"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
