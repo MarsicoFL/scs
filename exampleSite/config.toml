@@ -1,5 +1,5 @@
 baseURL = "https://encuentros.netlify.com"
-disableLanguages = []
+disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -143,16 +143,13 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "ti-github"
+link = ""
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
 icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
 link = "#"
 [[params.social]]
 icon = "ti-dribbble"
