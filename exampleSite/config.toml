@@ -144,7 +144,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-github"
-link = ""
+link = "https://github.com/MarsicoFL"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
