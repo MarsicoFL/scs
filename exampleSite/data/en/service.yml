@@ -10,10 +10,13 @@ service:
       forensic scientist face problems, such as performing identifications through
       large scale genetic databases. We develop algorithms for decision making in
       complex cases using genetic and non-genetic information.
-  - name: Responsive Design
+  - name: Social inequalities and information
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Amount of data is generated everyday by the public health system. Particularly,
+      low-income neighbourhoods are vulnerable in situation where a rapid response
+      by the central government administration is required. Public strategies are
+      hampered by the lack of information, here we develop algorithms for rapid data
+      collection.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
