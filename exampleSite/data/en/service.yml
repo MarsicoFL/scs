@@ -17,10 +17,11 @@ service:
       by the central government administration is required. Public strategies are
       hampered by the lack of information, here we develop algorithms for rapid data
       collection.
-  - name: Media &amp; Advertisement
+  - name: Early alarm systems in public health
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Covid19 shows the importance of monitoring and alarm systems for the
+      central administration and effectivennes of the health policy. We develop social
+      behavior based alarm systems for heterogeneus societies and territories.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
