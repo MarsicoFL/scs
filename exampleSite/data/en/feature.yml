@@ -3,24 +3,24 @@ feature:
   enable: true
   image: images/Salgado3.jpg
   image_webp: images/Salgado3.jpg
-  title: Complexity in social systems
+  title: Complex systems
   content: |-
     The most famous quote about Complex Systems comes from Aristotle who said that "The whole is more than the sum of its parts".
     Complex systems are systems where the collective behavior of their parts entails emergence of properties that can hardly, if not at all, be inferred from properties of the parts. Examples of complex systems include ant-hills, ants themselves, human economies, climate, nervous systems, cells and living things, including human beings, as well as modern energy or telecommunication infrastructures.
   feature_item:
-  - title: SEO Optimized
+  - title: Social complex systems
     icon: ti-world
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
+  - title: Non-human complexity
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: SEO Optimized
+  - title: Complex networks
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
+  - title: Information theory
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
