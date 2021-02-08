@@ -7,7 +7,8 @@ team:
     image_webp: images/team/Franco.jpg
     image: images/team/Franco.jpg
     designation: Professor/Researcher
-    content: 'Working on applied statistics in public health and forensic sciences. '
+    content: 'Biologist. Working on applied statistics in public health and forensic
+      sciences. '
     social:
     - icon: ti-github
       link: "#https://github.com/"
