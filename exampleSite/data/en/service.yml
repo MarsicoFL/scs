@@ -22,15 +22,7 @@ service:
     content: Covid19 shows the importance of monitoring and alarm systems for the
       central administration and effectivennes of the health policy. We develop social
       behavior based alarm systems for heterogeneus societies and territories.
-  - name: Graphic Design
+  - name: Environmental surveillance
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: In this project we work with ecologist and environmental scientist in
+      order to develop risk indicator of biodiversity loss and incresing pollution.
