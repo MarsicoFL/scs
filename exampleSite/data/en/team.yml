@@ -4,15 +4,15 @@ team:
   title: Our Team
   team_member:
   - name: Franco Marsico
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: images/team/Franco.jpg
+    image: images/team/Franco.jpg
     designation: Professor/Researcher
     content: 'Working on applied statistics in public health and forensic sciences. '
     social:
     - icon: ti-github
       link: "#https://github.com/"
     - icon: ti-dribbble
-      link: "#"
+      link: "#http://www.ic.fcen.uba.ar/redescomplejas/index.html"
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
