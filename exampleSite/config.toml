@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Encuentros"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by Franco Marsico"
+copyright = "Copyright & copy; 2020 Designed by Franco Marsico"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -19,14 +19,14 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "projects"
 pre = "#"
-url = "services"
+url = "projects"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Developments"
 pre = "#"
-url = "portfolio"
+url = "Developments"
 weight = 3
 [[Languages.en.menu.main]]
 name = "team"
