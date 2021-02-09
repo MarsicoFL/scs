@@ -4,73 +4,73 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+    - name : Early alarm system
+      image : images/outbreak.jped
+      image_webp : images/outbreak.jped
       categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+      content : Early alarm system based in social health perception and syndromic surveillance.
+      link : "https://www.medrxiv.org/content/10.1101/2020.10.09.20210351v1"
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
+    - name : Covid-19 mild cases estimation
+      image : images/images/F1.jpg
+      image_webp : images/F1.jpg
       categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      content : Information collection systems during catastrophes.
+      link : "https://www.medrxiv.org/content/10.1101/2020.07.26.20162008v1"
       
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : The missings
+      image : images/F2.jpg
+      image_webp : images/F2.jpg
+      categories : ["development"]
+      content : Prioritising family members for genotyping in missing person cases.
+      link : "https://pubmed.ncbi.nlm.nih.gov/32979623/"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    #- name : Bottol Label
+    #  image : images/portfolio/portfolio-4.jpg
+    #  image_webp : images/portfolio/portfolio-4.webp
+    #  categories : ["photography", "development"]
+    #  content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #  link : "#"
+      
+    # portfolio item loop
+    #- name : Shopping Bag
+    #  image : images/portfolio/portfolio-5.jpg
+    #  image_webp : images/portfolio/portfolio-5.webp
+    #  categories : ["design"]
+    #  content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #  link : "#"
+      
+    # portfolio item loop
+    #- name : Tag Design
+    #  image : images/portfolio/portfolio-6.jpg
+    #  image_webp : images/portfolio/portfolio-6.webp
+    #  categories : ["photography"]
+    #  content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #  link : "#"
+      
+    # portfolio item loop
+    #- name : Business Card
+    #  image : images/portfolio/portfolio-7.jpg
+    #  image_webp : images/portfolio/portfolio-7.webp
+    #  categories : ["development"]
+    #  content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #  link : "#"
+      
+    # portfolio item loop
+    #- name : Stationary Design
+    #  image : images/portfolio/portfolio-8.jpg
+    #  image_webp : images/portfolio/portfolio-8.webp
+    #  categories : ["design", "development"]
+    #  content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #  link : "#"
+      
+    # portfolio item loop
+    #- name : Tag Design
+    #  image : images/portfolio/portfolio-2.jpg
+    #  image_webp : images/portfolio/portfolio-2.webp
+    #  categories : ["design", "photography"]
+    #  content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #  link : "#"
