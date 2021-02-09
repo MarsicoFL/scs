@@ -10,8 +10,8 @@ portfolio:
     content: Estimating COVID-19 cases and outbreaks on-stream through phone-calls
     link: https://www.medrxiv.org/content/10.1101/2020.10.09.20210351v1
   - name: Covid-19 mild cases estimation
-    image: images/F1.png
-    image_webp: images/F1.png
+    image: images/F1.jpg
+    image_webp: images/F1.jpg
     categories: []
     content: Information systems during catastrophes for central administration monitoring
     link: "#https://www.medrxiv.org/content/10.1101/2020.07.26.20162008v1"
