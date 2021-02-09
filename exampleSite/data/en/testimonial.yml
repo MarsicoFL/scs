@@ -12,13 +12,16 @@ testimonial:
       and urban planners began to change their perceptions that cities betreated as
       'works of art' to something much more akin to a functioning economic system
       that required social engineering.
-  - name: FMlapatriada
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Adaptative systems
+    image: images/birds.jpg
+    image_webp: images/birds.jpg
+    date: ''
+    content: 'The study of complex adaptive systems from the natural world, systems
+      such as swarms of bees, flocks of birds or herds of animals, has illuminated
+      how the group as a whole and its members are influenced by, and influence, each
+      other. Pursuing questions such as ‘How do birds flock?’ and ‘How do bees swarm?’
+      has led scientists to investigate how individual elements act within the context
+      of the whole. '
   - name: ConferenciaX
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
