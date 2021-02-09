@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/Salgado2.jpg
-  image_webp: images/Salgado2.jpg
+  image: images/Salgado2.jpeg
+  image_webp: images/Salgado2.jpeg
   title: Complex systems
   content: |-
     The most famous quote about Complex Systems comes from Aristotle who said that "The whole is more than the sum of its parts".
