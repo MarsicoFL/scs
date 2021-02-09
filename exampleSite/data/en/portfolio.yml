@@ -9,14 +9,6 @@ portfolio:
     categories: []
     content: Estimating COVID-19 cases and outbreaks on-stream through phone-calls
     link: https://www.medrxiv.org/content/10.1101/2020.10.09.20210351v1
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
