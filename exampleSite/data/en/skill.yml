@@ -8,13 +8,11 @@ skill:
     decision makers are benefited from evidence-based decision support.  '
   image: images/about/company-growth.webp
   skill_item:
-  - name: Minister of Health - Province of Buenos Aires, Argentina
+  - name: Minister of Health, Province of Buenos Aires, Argentina
     percent: 90%
-  - name: Analysis
+  - name: National genetic data bank, Argentina
     percent: 70%
-  - name: Design
+  - name: National Center for Diagnosis and Research in endemic epidemics
     percent: 80%
-  - name: IOS Development
+  - name: Government of Tierra del Fuego, Argentina
     percent: 95%
-  - name: Android Development
-    percent: 75%
