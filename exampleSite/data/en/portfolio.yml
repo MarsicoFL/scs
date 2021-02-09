@@ -3,13 +3,6 @@ portfolio:
   enable: true
   title: Our publications
   portfolio_item:
-  - name: Missing person identification
-    image: images/outbreak.jpeg
-    image_webp: images/outbreak.jpeg
-    categories: ''
-    content: 'Prioritising family members for genotyping in missing person cases:
-      A general approach combining the statistical power of exclusion and inclusion'
-    link: https://pubmed.ncbi.nlm.nih.gov/32979623/
   - name: Outbreak early alarm system
     image: images/outbreak.jpeg
     image_webp: images/outbreak.jpeg
@@ -22,3 +15,9 @@ portfolio:
     categories: []
     content: Information systems during catastrophes for central administration monitoring
     link: "#https://www.medrxiv.org/content/10.1101/2020.07.26.20162008v1"
+  - name: Missing person identification
+    image: images/outbreak.jpeg
+    image_webp: images/outbreak.jpeg
+    categories: ''
+    content: Prioritising family members for genotyping in missing person cases.
+    link: https://pubmed.ncbi.nlm.nih.gov/32979623/
