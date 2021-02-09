@@ -3,10 +3,10 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: 'Please contact us '
   contact_list:
+  - icon: ti-global
+    info: http://www.ic.fcen.uba.ar/redescomplejas/index.html
   - icon: ti-location-pin
     info: University of Buenos Aires, Faculty of Natural and Exact Sciences
   - icon: ti-mobile
