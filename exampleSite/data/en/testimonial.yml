@@ -5,16 +5,16 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Cities
-    image: ''
-    image_webp: ''
+    image: images/logo.png
+    image_webp: images/logo.png
     date: ''
     content: Cities were first conceived as complex systems in the 1960s when architects
       and urban planners began to change their perceptions that cities betreated as
       'works of art' to something much more akin to a functioning economic system
       that required social engineering.
   - name: Adaptative systems
-    image: ''
-    image_webp: ''
+    image: images/logo.png
+    image_webp: images/logo.png
     date: ''
     content: 'The study of complex adaptive systems from the natural world, systems
       such as swarms of bees, flocks of birds or herds of animals, has illuminated
@@ -23,8 +23,8 @@ testimonial:
       has led scientists to investigate how individual elements act within the context
       of the whole. '
   - name: Forests
-    image: ''
-    image_webp: ''
+    image: images/logo.png
+    image_webp: images/logo.png
     date: ''
     content: 'The lens of complex systems science yields insights into facets of forest
       structure and dynamics that facilitate comparisons among ecosystems. These biomes
