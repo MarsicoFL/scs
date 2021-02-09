@@ -4,13 +4,14 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: Pagina12
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Nov 28, 2020
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Cities
+    image: images/cities.jpeg
+    image_webp: images/cities.jpeg
+    date: ''
+    content: Cities were first conceived as complex systems in the 1960s when architects
+      and urban planners began to change their perceptions that cities betreated as
+      'works of art' to something much more akin to a functioning economic system
+      that required social engineering.
   - name: FMlapatriada
     image: images/client/client-2.jpg
     image_webp: images/client/client-2.webp
