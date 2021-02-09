@@ -4,8 +4,8 @@ portfolio:
   title: Our publications
   portfolio_item:
   - name: Missing person identification
-    image: images/F2.jpg
-    image_webp: images/F2.jpg
+    image: images/outbreak.jpeg
+    image_webp: images/outbreak.jpeg
     categories: ''
     content: 'Prioritising family members for genotyping in missing person cases:
       A general approach combining the statistical power of exclusion and inclusion'
