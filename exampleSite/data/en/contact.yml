@@ -8,14 +8,14 @@ contact:
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
   contact_list:
   - icon: ti-location-pin
-    info: Ciudad Autónoma de Buenos Aires
+    info: University of Buenos Aires, Faculty of Natural and Exact Sciences
   - icon: ti-mobile
     info: 'Phone: +54-11-49385494'
   - icon: ti-email
     info: 'Email: franco.lmarsico@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "#franco.lmarsico@gmail.com"
     name: Your Name
     email: Your Email
     subject: Subject
