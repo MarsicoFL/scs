@@ -22,10 +22,11 @@ testimonial:
       other. Pursuing questions such as ‘How do birds flock?’ and ‘How do bees swarm?’
       has led scientists to investigate how individual elements act within the context
       of the whole. '
-  - name: ConferenciaX
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Forests
+    image: images/forest.jpg
+    image_webp: images/forest.jpg
+    date: ''
+    content: 'The lens of complex systems science yields insights into facets of forest
+      structure and dynamics that facilitate comparisons among ecosystems. These biomes
+      share the main properties of complex systems but differ in specific ecological
+      properties, disturbance regimes, and human uses. '
