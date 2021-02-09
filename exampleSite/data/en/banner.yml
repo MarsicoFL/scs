@@ -8,5 +8,5 @@ banner:
   content: A blog about complexity in human and nonhuman social systems.
   button:
     enable: true
-    label: Explore Us
+    label: About us
     link: "#services"
