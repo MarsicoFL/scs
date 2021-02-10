@@ -15,8 +15,8 @@
   translation: All
 - id: about
   translation: About Us
-- id: services
-  translation: Service
+- id: publications
+  translation: publications
 - id: projects
   translation: projects
 - id: team
