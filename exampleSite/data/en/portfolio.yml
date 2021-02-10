@@ -12,7 +12,7 @@ portfolio:
     link: https://www.medrxiv.org/content/10.1101/2020.10.09.20210351v1
   - name: Covid-19 mild cases estimation
     image: images/images/F1.jpg
-    image_webp: images/F1.jpg
+    image_webp: images/data.png
     categories:
     - development
     content: Information collection systems during catastrophes.
@@ -31,4 +31,3 @@ portfolio:
     - development
     content: Multiscale approach to the activation of sensor proteins.
     link: https://ri.conicet.gov.ar/handle/11336/65208
-
