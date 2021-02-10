@@ -1,8 +1,8 @@
 ---
-publications:
+portfolio:
   enable: true
   title: Our publications
-  publications_item:
+  portfolio_item:
   - name: Early alarm system
     image: images/outbreak.png
     image_webp: images/outbreak.png
