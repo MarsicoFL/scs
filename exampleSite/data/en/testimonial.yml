@@ -5,16 +5,16 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Cities
-    image: images/logo.png
-    image_webp: images/logo.png
+    image: images/city_icon.png
+    image_webp: images/city_icon.png
     date: ''
     content: Cities were first conceived as complex systems in the 1960s when architects
       and urban planners began to change their perceptions that cities betreated as
       'works of art' to something much more akin to a functioning economic system
       that required social engineering.
   - name: Adaptative systems
-    image: images/logo.png
-    image_webp: images/logo.png
+    image: images/birds_icon.png
+    image_webp: images/birds_icon.png
     date: ''
     content: 'The study of complex adaptive systems from the natural world, systems
       such as swarms of bees, flocks of birds or herds of animals, has illuminated
