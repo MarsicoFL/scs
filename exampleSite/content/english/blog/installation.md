@@ -2,12 +2,13 @@
 title: "FOGSA software"
 date: 2021-02-10T14:51:12+06:00
 author: Franco Marsico
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
+image_webp: images/blog/blog-post-2.webp
+image: images/blog/blog-post-2.webp
 description : "Forensic Genetics Simulation Analysis installation"
 ---
 
 # Forensic Genetics Simulation Analysis (FOGSA)
+Open source software that provides statistical tool for decision making in missing person identification cases.
 
 ## Description
 Despite that the use of DNA in Missing Person Identification and Disaster Victim Identification cases has gained increasing focus during the last two decades, there still are several complications that the forensic scientists are faced with, for instance complex family structures and large scale comparisons are examples. Evaluating the impact of these complications in the identification process is one of the main tasks of the forensic genetics statistics. The development of algorithms and the application of statistical analysis in order to measure the uncertainty and minimize the probability of both false positive and false negatives types of error can be crucial to the purpose of the Missing Person Identification. FOGSA (Forensic Genetics Simulation Analysis) provides an userfriendly interface that allows the analysis of the simulation Raw Data from different softwares such as Familias R version and Forrel Package. FOGSA aimed at helping in the statistical analysis for decision making in forensic genetic caseworks.
