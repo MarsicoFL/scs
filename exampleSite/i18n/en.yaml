@@ -17,8 +17,8 @@
   translation: About Us
 - id: services
   translation: Service
-- id: portfolio
-  translation: Portfolio
+- id: projects
+  translation: projects
 - id: team
   translation: Team
 - id: blog
