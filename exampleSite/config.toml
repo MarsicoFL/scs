@@ -102,7 +102,7 @@ weight = 7
 #weight = 8
 [params]
 author = "Franco Marsico"
-description = "Hugo template"
+description = "Complex systems blog"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
