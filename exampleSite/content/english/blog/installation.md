@@ -1,5 +1,5 @@
 ---
-title: "FOGSA software"
+title: "FOGSA"
 date: 2021-02-10T14:51:12+06:00
 author: Franco Marsico
 image_webp: images/blog/blog-post-2.webp
