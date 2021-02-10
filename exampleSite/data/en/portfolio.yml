@@ -25,8 +25,8 @@ portfolio:
     content: Prioritising family members for genotyping in missing person cases.
     link: https://pubmed.ncbi.nlm.nih.gov/32979623/
   - name: Multiscale analysis
-    image: images/Crytal.jpg
-    image_webp: images/Crytal.jpg
+    image: images/crystal.png
+    image_webp: images/crystal.png
     categories:
     - development
     content: Multiscale approach to the activation of sensor proteins.
