@@ -4,22 +4,22 @@ portfolio:
   title: Our publications
   portfolio_item:
   - name: Early alarm system
-    image: images/outbreak.jped
-    image_webp: images/outbreak.jpeg
+    image: images/outbreak.png
+    image_webp: images/outbreak.png
     categories:
     - development
     content: Early alarm system based in social health perception and syndromic surveillance.
     link: https://www.medrxiv.org/content/10.1101/2020.10.09.20210351v1
   - name: Covid-19 mild cases estimation
-    image: images/images/F1.jpg
+    image: images/data.png
     image_webp: images/data.png
     categories:
     - development
     content: Information collection systems during catastrophes.
     link: https://www.medrxiv.org/content/10.1101/2020.07.26.20162008v1
   - name: The missings
-    image: images/F2.jpg
-    image_webp: images/F2.jpg
+    image: images/missing.png
+    image_webp: images/missing.png
     categories:
     - development
     content: Prioritising family members for genotyping in missing person cases.
