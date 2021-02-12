@@ -15,10 +15,10 @@
   translation: All
 - id: about
   translation: About Us
-- id: Publications
-  translation: Publications
-- id: projects
-  translation: projects
+- id: Portafolio
+  translation: portafolio
+- id: Services
+  translation: services
 - id: team
   translation: Team
 - id: blog
