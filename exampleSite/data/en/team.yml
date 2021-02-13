@@ -36,3 +36,9 @@ team:
       link: "#https://github.com/"
     - icon: ti-dribbble
       link: "#http://www.ic.fcen.uba.ar/redescomplejas/index.html"
+  - name: Tomás Cicchini
+    image: images/tomas.jpeg
+    designation: PhD student
+    content: Physicist. Complex Systems.
+    social: ''
+    image_webp: images/tomas.jpeg
