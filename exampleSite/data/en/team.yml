@@ -9,7 +9,7 @@ team:
     designation: Lab head
     content: PhD in physics. Complex Systems. Complex networks.
     social:
-    - icon: it-github
+    - icon: ti-github
       link: https://github.com/inescaridi
   - name: Ariel Salgado
     image_webp: images/team-ari.png
