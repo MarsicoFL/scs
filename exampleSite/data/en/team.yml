@@ -11,6 +11,14 @@ team:
     social:
     - icon: it-github
       link: https://github.com/inescaridi
+  - name: Ariel Salgado
+    image_webp: images/team-ari
+    image: images/team-ari
+    designation: PhD student
+    content: Physicist. Complex networks.
+    social:
+    - icon: ti-github
+      link: https://github.com/arielolafsalgado
   - name: Victoria Arcón
     image_webp: images/team-vic.png
     image: images/team-vic.png
