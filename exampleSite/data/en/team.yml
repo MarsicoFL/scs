@@ -12,8 +12,8 @@ team:
     - icon: it-github
       link: https://github.com/inescaridi
   - name: Ariel Salgado
-    image_webp: images/team-ari
-    image: images/team-ari
+    image_webp: images/team-ari.png
+    image: images/team-ari.png
     designation: PhD student
     content: Physicist. Complex networks.
     social:
