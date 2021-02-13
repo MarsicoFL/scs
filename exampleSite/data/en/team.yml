@@ -11,6 +11,12 @@ team:
     social:
     - icon: it-github
       link: https://github.com/inescaridi
+  - name: Victoria Arcón
+    image_webp: images/team-vic.png
+    image: images/team-vic.png
+    designation: PhD student
+    content: Mathematician. Complex Systems.
+    social: ''
   - name: Franco Marsico
     image_webp: images/team/Franco.jpg
     image: images/team/Franco.jpg
