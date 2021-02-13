@@ -8,17 +8,13 @@ team:
     image: images/team-ine.png
     designation: Lab head
     content: PhD in physics. Complex Systems. Complex networks.
-    social:
-    - icon: ti-github
-      link: https://github.com/inescaridi
+    social: []
   - name: Ariel Salgado
     image_webp: images/team-ari.png
     image: images/team-ari.png
     designation: PhD student
     content: Physicist. Complex networks.
-    social:
-    - icon: ti-github
-      link: https://github.com/arielolafsalgado
+    social: []
   - name: Victoria Arcón
     image_webp: images/team-vic.png
     image: images/team-vic.png
@@ -29,13 +25,8 @@ team:
     image_webp: images/team/Franco.jpg
     image: images/team/Franco.jpg
     designation: Professor/Researcher
-    content: 'Biologist. Working on applied statistics in public health and forensic
-      sciences. '
-    social:
-    - icon: ti-github
-      link: "#https://github.com/"
-    - icon: ti-dribbble
-      link: "#http://www.ic.fcen.uba.ar/redescomplejas/index.html"
+    content: Biologist. Applied statistics.
+    social: []
   - name: Tomás Cicchini
     image: images/tomas.jpeg
     designation: PhD student
