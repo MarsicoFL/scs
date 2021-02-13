@@ -1,14 +1,14 @@
-baseURL = "https://encuentros.netlify.com"
-disableLanguages = [""]
+baseURL = "https://scs.netlify.com"
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Encuentros"
+title = "Social Complex Systems"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright & copy; 2020 Designed by Franco Marsico"
+copyright = "Copyright & copy; 2020 Designed by SCS team"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -19,7 +19,12 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "projects"
+name = "team"
+pre = "#"
+url = "team"
+weight = 4
+[[Languages.en.menu.main]]
+name = "Research projects"
 pre = "#"
 url = "services"
 weight = 2
@@ -28,16 +33,6 @@ name = "publications"
 pre = "#"
 url = "portfolio"
 weight = 3
-[[Languages.en.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-#[[Languages.en.menu.main]]
-#name = "pricing"
-#pre = "#"
-#url = "pricing"
-#weight = 5
 [[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
@@ -48,11 +43,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-#[[Languages.en.menu.main]]
-#name = "themefisher"
-#pre = ""
-#url = "https://themefisher.com/"
-#weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright & copy; 2020 Designed by Franco Marsico"
@@ -80,11 +70,6 @@ name = "équipe"
 pre = "#"
 url = "team"
 weight = 4
-#[[Languages.fr.menu.main]]
-#name = "tarification"
-#pre = "#"
-#url = "pricing"
-#weight = 5
 [[Languages.fr.menu.main]]
 name = "blog"
 pre = "#"
@@ -95,13 +80,8 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-#[[Languages.fr.menu.main]]
-#name = "themefisher"
-#pre = ""
-#url = "https://themefisher.com/"
-#weight = 8
 [params]
-author = "Franco Marsico"
+author = "SCS team"
 description = "Complex systems blog"
 google_analytics_id = ""
 logo = "images/logo.png"
