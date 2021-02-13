@@ -3,6 +3,14 @@ team:
   enable: true
   title: Team
   team_member:
+  - name: Ines Caridi
+    image_webp: images/team-ine.png
+    image: images/team-ine.png
+    designation: Lab head
+    content: PhD in physics. Complex Systems. Complex networks.
+    social:
+    - icon: it-github
+      link: https://github.com/inescaridi
   - name: Franco Marsico
     image_webp: images/team/Franco.jpg
     image: images/team/Franco.jpg
