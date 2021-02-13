@@ -1,4 +1,4 @@
-baseURL = "https://scs.netlify.com"
+baseURL = "https://scsteam.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
