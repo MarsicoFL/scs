@@ -2,4 +2,15 @@
 team:
   enable: true
   title: Team
-  team_member: []
+  team_member:
+  - name: Ines Caridi
+    image: images/team/ine.png
+    content: Physicist. Complex systems.
+    social: ''
+    image_webp: images/team/ine.png
+    designation: Lab head
+  - image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
