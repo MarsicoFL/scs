@@ -6,30 +6,40 @@ team:
   - name: Ines Caridi
     image: images/team/ine.png
     content: PhD in Physics. Complex systems.
-    social: ''
+    social:
+    - icon: ''
+      link: ''
     image_webp: images/team/ine.png
     designation: Lab head
   - image_webp: images/team/ari.png
     image: images/team/ari.png
     designation: PhD student
     content: Physicist. Complex networks.
-    social: ''
+    social:
+    - icon: ''
+      link: ''
     name: Ariel Salgado
   - name: Victoria Arcón
     image_webp: images/team/vic.png
     image: images/team/vic.png
     designation: PhD student
     content: Mathematician. Complex systems.
-    social: ''
+    social:
+    - icon: ''
+      link: ''
   - name: Franco Marsico
     image_webp: images/team/franco.png
     image: images/team/franco.png
     designation: PhD student
     content: Biologist. Applied statistics.
-    social: ''
+    social:
+    - icon: ''
+      link: ''
   - name: Tomas Cicchini
     image_webp: images/tom.png
     image: images/tom.png
     designation: PhD student
     content: Physicist. Complex systems.
-    social: ''
+    social:
+    - icon: ''
+      link: ''
