@@ -3,11 +3,11 @@ team:
   enable: true
   title: Team
   team_member:
-  - name: Victoria Arcón
-    image_webp: images/team/vic.png
-    image: images/team/vic.png
+  - name: Franco Marsico
+    image_webp: images/team/Franco.png
+    image: images/team/Franco.png
     designation: PhD student
-    content: Mathematician. Complex systems.
+    content: Biologist. Applied statistics.
     social: ''
   - name: Ines Caridi
     image: images/team/ine.png
@@ -21,3 +21,9 @@ team:
     content: Physicist. Complex networks.
     social: ''
     name: Ariel Salgado
+  - name: Victoria Arcón
+    image_webp: images/team/vic.png
+    image: images/team/vic.png
+    designation: PhD student
+    content: Mathematician. Complex systems.
+    social: ''
