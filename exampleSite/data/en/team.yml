@@ -3,14 +3,6 @@ team:
   enable: true
   title: Team
   team_member:
-  - name: Ines Caridi
-    image: images/team/ine.png
-    content: PhD in Physics. Complex systems.
-    social:
-    - icon: ''
-      link: ''
-    image_webp: images/team/ine.png
-    designation: Lab head
   - image_webp: images/team/ari.png
     image: images/team/ari.png
     designation: PhD student
@@ -43,3 +35,11 @@ team:
     social:
     - icon: ''
       link: ''
+  - name: Ines Caridi
+    image: images/team/ine.png
+    content: PhD in Physics. Complex systems.
+    social:
+    - icon: ''
+      link: ''
+    image_webp: images/team/ine.png
+    designation: Lab head
