@@ -3,6 +3,12 @@ team:
   enable: true
   title: Team
   team_member:
+  - name: Victoria Arcón
+    image_webp: images/team/vic.png
+    image: images/team/vic.png
+    designation: PhD student
+    content: Mathematician. Complex systems.
+    social: ''
   - name: Ines Caridi
     image: images/team/ine.png
     content: PhD in Physics. Complex systems.
