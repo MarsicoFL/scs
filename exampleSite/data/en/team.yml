@@ -3,12 +3,6 @@ team:
   enable: true
   title: Team
   team_member:
-  - name: Tomas Cicchini
-    image_webp: images/tom.png
-    image: images/tom.png
-    designation: PhD student
-    content: Physicist. Complex systems.
-    social: ''
   - name: Ines Caridi
     image: images/team/ine.png
     content: PhD in Physics. Complex systems.
@@ -32,4 +26,10 @@ team:
     image: images/team/Franco.png
     designation: PhD student
     content: Biologist. Applied statistics.
+    social: ''
+  - name: Tomas Cicchini
+    image_webp: images/tom.png
+    image: images/tom.png
+    designation: PhD student
+    content: Physicist. Complex systems.
     social: ''
