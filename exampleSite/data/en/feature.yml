@@ -12,10 +12,6 @@ feature:
     icon: ti-world
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Non-human complexity
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
   - title: Complex networks
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
