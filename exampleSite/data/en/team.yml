@@ -9,8 +9,9 @@ team:
     social: ''
     image_webp: images/team/ine.png
     designation: Lab head
-  - image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
+  - image_webp: images/team/ari.png
+    image: images/team/ari.png
+    designation: PhD student
+    content: Physicist. Complex networks.
     social: ''
+    name: Ariel Salgado
