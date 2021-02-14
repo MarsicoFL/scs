@@ -28,8 +28,8 @@ team:
     - icon: ''
       link: ''
   - name: Tomas Cicchini
-    image_webp: images/tom-bn.jpeg
-    image: images/tom-bn.jpeg
+    image_webp: images/team/tom.png
+    image: images/team/tom.png
     designation: PhD student
     content: Physicist. Complex systems.
     social:
