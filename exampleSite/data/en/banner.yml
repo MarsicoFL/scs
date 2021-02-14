@@ -4,8 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/Genesis_Salgado2.jpg
   bg_image: images/backgrounds/Genesis_Salgado2.jpg
   icon: ''
-  title: Social Complex Systems team
-  content: We are interested in studying complexity of social systems
+  title: SCS
+  content: Social Complex Systems team. We are interested in studying complexity of
+    social systems
   button:
     enable: true
     label: About us
