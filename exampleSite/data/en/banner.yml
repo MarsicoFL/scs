@@ -8,5 +8,5 @@ banner:
   content: Universidad Nacional de las Artes
   button:
     enable: true
-    label: About us
+    label: Acerca de la materia
     link: "#services"
