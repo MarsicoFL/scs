@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our projects
+  title: Proyectos
   service_item:
   - name: Investigación genealógica
     icon: ti-world
