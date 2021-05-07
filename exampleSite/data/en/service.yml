@@ -20,7 +20,3 @@ service:
     content: Producimos un archivo sistemático de material escrito y audiovisual relacionado
       con los procesos de genocidios y de reparación de DDHH de los eventos analizados
       en la cátedra. Lo acompañamos de análisis y ensayos críticos.
-  - name: Environmental surveillance
-    icon: ti-palette
-    content: In this project we work with ecologist and environmental scientist in
-      order to develop risk indicator of biodiversity loss and incresing pollution.
