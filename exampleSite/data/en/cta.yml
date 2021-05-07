@@ -7,5 +7,5 @@ cta:
   content: Genocidio y reparación
   button:
     enable: true
-    label: Start a project with us
+    label: Contactanos
     link: "#contact"
