@@ -1,11 +1,11 @@
-baseURL = "https://scsteam.netlify.com"
+baseURL = "https://antropoyddhh.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Social Complex Systems"
+title = "Antropología y Derechos Humanos"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright & copy; 2020 Designed by SCS team"
@@ -81,8 +81,8 @@ pre = "#"
 url = "contact"
 weight = 7
 [params]
-author = "SCS team"
-description = "Complex systems blog"
+author = "Franco Marsico"
+description = "Antropología y Derechos Humanos"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
