@@ -5,13 +5,12 @@ service:
   service_item:
   - name: Investigación genealógica
     icon: ti-world
-    content: Con el fin de brindar elementos prácticos y experiencia en un proceso
-      de investigación científica, analizamos casos de búsqueda de genealogías y reconstrucción
-      de raíces étnicas. Para este fin exploramos herramientas provenientes de la
-      investigación en ciencias antropológicas, ciencias físicas y la genética. Nos
-      introducimos en el uso de grandes bases de datos de información histórica y
-      exploramos la potencialidad de las herramientas genéticas para la determinación
-      de linajes.
+    content: Brindamos elementos prácticos y experiencia en un proceso de investigación
+      científica, analizando casos de búsqueda de genealogías y reconstrucción de
+      raíces étnicas. Para este fin aplicamos herramientas provenientes de la investigación
+      en ciencias antropológicas, ciencias físicas y la genética. Nos introducimos
+      en el uso de grandes bases de datos de información histórica y exploramos la
+      potencialidad de las herramientas genéticas para la determinación de linajes.
   - name: Exposiciones
     icon: ti-layout
     content: Analizamos expresiones artísticas referidas a procesos genocidas. Se
