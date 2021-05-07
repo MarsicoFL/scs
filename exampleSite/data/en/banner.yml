@@ -4,9 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/Genesis_Salgado2.jpg
   bg_image: images/backgrounds/Genesis_Salgado2.jpg
   icon: ''
-  title: SCS
-  content: Social Complex Systems team. We are interested in studying complexity of
-    social systems
+  title: Antropología y Derechos Humanos
+  content: Universidad Nacional de las Artes
   button:
     enable: true
     label: About us
