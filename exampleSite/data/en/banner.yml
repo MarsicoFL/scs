@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Acerca de la materia
-    link: "#service"
+    link: "#about"
