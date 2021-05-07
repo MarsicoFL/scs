@@ -1,14 +1,15 @@
 ---
 contact:
   enable: true
-  title: Contact Us
-  subtitle: Contact Details
-  content: 'Please contact us '
+  title: Contacto
+  subtitle: Detalles de contacto
+  content: Franco Marsico (Profesor Titular)
   contact_list:
   - icon: ti-global
     info: http://www.ic.fcen.uba.ar/redescomplejas/index.html
   - icon: ti-location-pin
-    info: University of Buenos Aires, Faculty of Natural and Exact Sciences
+    info: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Instituto
+      del Cálculo
   - icon: ti-mobile
     info: 'Phone: +54-11-49385494'
   - icon: ti-email
