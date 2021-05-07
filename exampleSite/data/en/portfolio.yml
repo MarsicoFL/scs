@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Notas, publicaciones y recomendaciones
+  title: Publicaciones y recomendaciones
   portfolio_item:
   - name: 'Link: Early alarm system'
     image: images/outbreak.png
