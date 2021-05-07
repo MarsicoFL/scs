@@ -4,7 +4,7 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: Cities
+  - name: Vietnam
     image: images/city_icon.png
     image_webp: images/city_icon.png
     date: ''
@@ -12,7 +12,7 @@ testimonial:
       and urban planners began to change their perceptions that cities betreated as
       'works of art' to something much more akin to a functioning economic system
       that required social engineering.
-  - name: Adaptative systems
+  - name: Sri-Lanka
     image: images/birds_icon.png
     image_webp: images/birds_icon.png
     date: ''
@@ -22,7 +22,7 @@ testimonial:
       other. Pursuing questions such as ‘How do birds flock?’ and ‘How do bees swarm?’
       has led scientists to investigate how individual elements act within the context
       of the whole. '
-  - name: Forests
+  - name: Armenia
     image: images/trees_icon.png
     image_webp: images/trees_icon.png
     date: ''
