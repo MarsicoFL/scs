@@ -12,21 +12,18 @@ portfolio:
   - name: 'Link: Covid-19 mild cases estimation'
     image: images/data.png
     image_webp: images/data.png
-    categories:
-    - development
+    categories: []
     content: Information collection systems during catastrophes.
     link: https://www.medrxiv.org/content/10.1101/2020.07.26.20162008v1
   - name: 'Link: The missings'
     image: images/missing.png
     image_webp: images/missing.png
-    categories:
-    - development
+    categories: []
     content: Prioritising family members for genotyping in missing person cases.
     link: https://pubmed.ncbi.nlm.nih.gov/32979623/
   - name: 'Link: Multiscale analysis'
     image: images/crystal.png
     image_webp: images/crystal.png
-    categories:
-    - development
+    categories: []
     content: Multiscale approach to the activation of sensor proteins.
     link: https://ri.conicet.gov.ar/handle/11336/65208
