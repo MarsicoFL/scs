@@ -15,11 +15,11 @@ service:
     icon: ti-layout
     content: Analizamos expresiones artísticas referidas a procesos genocidas. Se
       preparan exposiciones temáticas para generar un espacio de reflexión.
-  - name: Early alarm systems in public health
+  - name: Biblioteca
     icon: ti-blackboard
-    content: Covid19 shows the importance of monitoring and alarm systems for the
-      central administration and effectivennes of the health policy. We develop social
-      behavior based alarm systems for heterogeneus societies and territories.
+    content: Producimos un archivo sistemático de material escrito y audiovisual relacionado
+      con los procesos de genocidios y de reparación de DDHH de los eventos analizados
+      en la cátedra. Lo acompañamos de análisis y ensayos críticos.
   - name: Environmental surveillance
     icon: ti-palette
     content: In this project we work with ecologist and environmental scientist in
