@@ -11,11 +11,11 @@ team:
     social:
     - icon: ''
       link: ''
-  - name: Tomas Cicchini
-    image_webp: images/team/tom.png
-    image: images/team/tom.png
-    designation: PhD student
-    content: Physicist. Complex systems.
+  - name: Martín Di Tomás
+    image_webp: ''
+    image: ''
+    designation: Historiador
+    content: Movimientos sociales de liberación nacional.
     social:
     - icon: ''
       link: ''
