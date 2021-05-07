@@ -3,15 +3,23 @@ feature:
   enable: true
   image: images/Salgado2.jpeg
   image_webp: images/Salgado2.jpeg
-  title: Complex systems
-  content: |-
-    The most famous quote about Complex Systems comes from Aristotle who said that "The whole is more than the sum of its parts".
-    Complex systems are systems where the collective behavior of their parts entails emergence of properties that can hardly, if not at all, be inferred from properties of the parts. Examples of complex systems include ant-hills, ants themselves, human economies, climate, nervous systems, cells and living things, including human beings, as well as modern energy or telecommunication infrastructures.
+  title: Antropología y DDHH
+  content: La materia busca abordar, desde una mirada crítica, el rol de la antropología
+    en los derechos humanos en un conjunto de procesos de colonización y descolonización.
+    Se darán fundamentos teóricos y prácticos para llevar adelante investigaciones
+    genealógicas utilizando las expresiones artísticas como herramientas de reconstrucción
+    y reparación de identidades.
   feature_item:
-  - title: Social complex systems
+  - title: Unidad 1. La antropología al servicio de la colonización y los genocidios.
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'En una primera etapa se aborda desde una mirada histórica la construcción
+      de saberes en occidente y su puesta al servicio de la prácticas colonialistas.
+      Se hace hincapié en un análisis que contempla las relaciones de poder como eje
+      central de la cosmovisión de los pueblos imperialistas. Se estudia el rol de
+      la genética, etnografía y el debate entre el universalismo y el relativismo
+      en las ciencias antropológicas. Se aborda la diferencia entre los conceptos
+      de genocidio y limpieza étnica y sus justificación provenientes de las ciencias
+      naturales. '
   - title: Complex networks
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
