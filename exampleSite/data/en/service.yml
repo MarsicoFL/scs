@@ -12,13 +12,10 @@ service:
       introducimos en el uso de grandes bases de datos de información histórica y
       exploramos la potencialidad de las herramientas genéticas para la determinación
       de linajes.
-  - name: Social inequalities and information
+  - name: Exposiciones
     icon: ti-layout
-    content: Amount of data is generated everyday by the public health system. Particularly,
-      low-income neighbourhoods are vulnerable in situation where a rapid response
-      by the central government administration is required. Public strategies are
-      hampered by the lack of information, here we develop algorithms for rapid data
-      collection.
+    content: Analizamos expresiones artísticas referidas a procesos genocidas. Se
+      preparan exposiciones temáticas para generar un espacio de reflexión.
   - name: Early alarm systems in public health
     icon: ti-blackboard
     content: Covid19 shows the importance of monitoring and alarm systems for the
