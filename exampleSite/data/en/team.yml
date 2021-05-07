@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Team
+  title: Equipo docente
   team_member:
   - name: Franco Marsico
     image_webp: images/team/franco.png
